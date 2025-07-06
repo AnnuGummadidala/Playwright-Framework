@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.230853999999999">
+<testsuite name="login.spec.js" timestamp="2025-07-06T11:45:28.232Z" hostname="chromium" tests="1" failures="0" skipped="0" time="5.126" errors="0">
+<testcase name="Login Test" classname="login.spec.js" time="5.126">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\..\test-results\login-Login-Test-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
